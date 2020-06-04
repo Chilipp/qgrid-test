@@ -1,0 +1,7 @@
+name: temp12k
+dependencies:
+    - pandas
+    - ipywidgets
+    - qgrid
+    - pip:
+        - qgrid
